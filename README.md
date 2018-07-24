@@ -9,8 +9,11 @@ Classic paper-and-pencil game, digitally re-designed. Powered by [React Native](
     cd RNTicTacToe
     yarn
 
-## Running in iOS
+## Running in iOS Simulator
     react-native run-ios
 
-## Running in Android
+## Running in Android Simulator
     react-native run-android
+
+## About
+[Tic Tac Toe in JavaScript](https://www.techcycle.me/post/reactjs-tic-tac-toe-version-20)
