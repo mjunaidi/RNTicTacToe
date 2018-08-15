@@ -254,6 +254,19 @@ export default class Board extends React.Component {
               ))
             }
           </View>
+          <View>
+            <SimpleButton
+              title="Restart"
+              btnColor={Color.YELLOW}
+              outline
+              style={{
+                margin: 10,
+                width: 100,
+                alignSelf: 'center'
+              }}
+              onPress={this.restart}
+            />
+          </View>
         </View>
       )
     }
