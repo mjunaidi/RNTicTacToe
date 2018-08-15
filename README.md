@@ -9,10 +9,12 @@ Classic paper-and-pencil game, digitally re-designed. Powered by [React Native](
     cd RNTicTacToe
     yarn
 
-## Running in iOS Simulator
+## Running in iOS Emulator
     react-native run-ios
 
-## Running in Android Simulator
+## Running in Android Emulator
+> Required running Android emulator. Android emulator can be created with [Android Studio](https://developer.android.com/studio/index.html).
+
     react-native run-android
 
 ## About
